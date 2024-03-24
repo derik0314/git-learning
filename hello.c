@@ -5,7 +5,3 @@ int main(){
 }
 
 
-int test-branch(int a){
-    return a;
-}
-

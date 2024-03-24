@@ -9,3 +9,7 @@ int master(int b){
 }
 
 
+int test-branch(int a){
+    return a;
+}
+
